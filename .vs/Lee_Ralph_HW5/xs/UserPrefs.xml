@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{10C30454-431E-4646-8574-F77C0A578534}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lee_Ralph_HW5/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Lee_Ralph_HW5/Seeding/SeedLanguages.cs" Line="9" Column="31" />
+      <File FileName="Lee_Ralph_HW5/Seeding/SeedRepositories.cs" Line="233" Column="22" />
+      <File FileName="Lee_Ralph_HW5/Controllers/SeedController.cs" Line="15" Column="1" />
+      <File FileName="Lee_Ralph_HW5/Startup.cs" Line="37" Column="55" />
+      <File FileName="Lee_Ralph_HW5/Controllers/HomeController.cs" Line="125" Column="57" />
+      <File FileName="../../Sample Code/fa18SearchDemo/fa18SearchDemo/Controllers/HomeController.cs" Line="159" Column="47" />
+      <File FileName="Lee_Ralph_HW5/Views/Home/Index.cshtml" Line="67" Column="22" />
+      <File FileName="Lee_Ralph_HW5/Views/Home/Details.cshtml" Line="1" Column="21" />
+      <File FileName="Lee_Ralph_HW5/Views/Home/DetailedSearch.cshtml" Line="28" Column="22" />
+      <File FileName="Lee_Ralph_HW5/Models/Repository.cs" Line="33" Column="29" />
+      <File FileName="Lee_Ralph_HW5/Models/Language.cs" Line="9" Column="6" />
+      <File FileName="Lee_Ralph_HW5/DAL/AppDbContext.cs" Line="1" Column="25" />
+      <File FileName="Lee_Ralph_HW5/wwwroot/lib/twitter-bootstrap/css/bootstrap.css" Line="3994" Column="5" />
+      <File FileName="Lee_Ralph_HW5/wwwroot/lib/twitter-bootstrap/css/bootstrap.css.map" Line="1" Column="1" />
+      <File FileName="Lee_Ralph_HW5/wwwroot/lib/twitter-bootstrap/css/bootstrap.min.css" Line="1" Column="1" />
+      <File FileName="Lee_Ralph_HW5/Views/Shared/_Layout.cshtml" Line="8" Column="61" />
+      <File FileName="Lee_Ralph_HW5/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="Lee_Ralph_HW5/Migrations/20181029222110_InitialCreate.cs" Line="1" Column="1" />
+      <File FileName="Lee_Ralph_HW5/Migrations/20181029222110_InitialCreate.Designer.cs" Line="1" Column="1" />
+      <File FileName="Lee_Ralph_HW5/Migrations/AppDbContextModelSnapshot.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lee__Ralph__HW5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
